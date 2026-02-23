@@ -1,3 +1,13 @@
+## Data Source
+
+The data used in this Power BI report comes from:
+
+-  https://success.pragmaticworks.com/data-modeling-for-power-bi-files?utm_campaign=lwtn-data-modeling-for-power-bi-2024&utm_source=youtube&utm_medium=organic 
+
+Please ensure you have access to these sources to refresh or explore the report.
+
+
+
 📌 Overview
 
 This repository contains files created as part of a Power BI data modeling workshop, completed during a professional training course by Pragmatic Works.
