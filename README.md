@@ -10,7 +10,7 @@ Please ensure you have access to these sources to refresh or explore the report.
 
 📌 Overview
 
-This repository contains file created as part of a Power BI data modeling workshop, completed during a professional training course by Pragmatic Works.
+This repository contains a Pbix file created as part of a Power BI data modeling workshop, completed during a professional training course by Pragmatic Works.
 
 The project focuses on building an effective Power BI data model using best practices in dimensional modeling and star schema design, with an emphasis on scalability, performance, and real-world analytics use cases.
 
